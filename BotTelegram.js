@@ -1,4 +1,4 @@
-const BOT_TOKEN = 'token robot';
+const BOT_TOKEN = 'Robot token';
 const ADMINS = ["admin1, admin2"];// ID admin ha bedone @
 const BOT_ID = "";// ID robot bedone @
 
