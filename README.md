@@ -6,4 +6,6 @@ This is a JavaScript Telegram bot that we can send a file to and give it mandato
 <h2>commands:</h2>
 <h4>newpost:</h4><p>To add a new post</p>
 
-<h4>addfile</h4><p>When you have sent your posts to the bot and you want to add another post to those posts again, we need to use this command.</p>
+<h4>addfile:</h4><p>When you have sent your posts to the bot and you want to add another post to those posts again, we need to use this command.</p>
+
+<h4>done:</h4><p>We use this command when we are done sending posts.</p>
