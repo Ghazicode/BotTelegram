@@ -1,12 +1,3 @@
-// ozv ejbari telegram bot - Multi-file version
-
-/*
-https://www.instagram.com/behnamonline
-https://www.youtube.com/@behnamonline
-https://t.me/behnamonline99
-https://www.aparat.com/behnam.online
-*/
-
 const BOT_TOKEN = 'token robot';
 const ADMINS = ["admin1, admin2"];// ID admin ha bedone @
 const BOT_ID = "";// ID robot bedone @
