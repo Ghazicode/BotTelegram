@@ -2,5 +2,5 @@ This is a JavaScript Telegram bot that we can send a file to and give it mandato
 
 
 <h2>Note that when you give a bot a mandatory membership channel link, the bot must be an admin of that channel.</h2>
-<hr>
+<!-- <hr> -->
 <h2>commands:</h2>
