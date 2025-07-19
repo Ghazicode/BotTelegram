@@ -5,3 +5,5 @@ This is a JavaScript Telegram bot that we can send a file to and give it mandato
 
 <h2>commands:</h2>
 <h4>newpost:</h4><p>To add a new post</p>
+
+<h4></h4>
