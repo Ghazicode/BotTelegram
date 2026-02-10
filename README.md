@@ -1,1 +1,1 @@
-tags: # sqli #union-based #dvwa #low-level
+این حمله شبیه [[XSS]] است ولی [[CSRF]] متفاوت است.
